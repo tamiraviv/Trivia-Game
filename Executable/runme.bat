@@ -1,0 +1,2 @@
+start Trivia.jar
+pause

@@ -1,0 +1,9 @@
+this is where all the yago files should be for update.
+
+list of files:
+
+yagoLabels.tsv
+yagoTransitiveType.tsv
+yagoDateFacts.tsv
+yagoFacts.tsv
+yagoLiteralFacts.tsv
